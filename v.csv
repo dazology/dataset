@@ -4,18 +4,18 @@ vacancy_id,VacancyId,Name,Reference,Client,HiringManager,PositionType,AddressCit
 3,c299b4c9-7888-ee11-be36-002248c7244c,Quant Research,PR/006039,"Dooley, Gutkowski and Graham",Rodger Langosh,Permanent,Newport,OF23 4HN,United Kingdom,50000
 4,f0388fe2-fe68-ee11-94f7-000d3ad6abf9,Senior Business Analyst,PR/005250,"McCullough, Beahan and Abshire",Domenica Emard,Permanent,Birmingham,KY27 5VQ,United Kingdom,100000
 5,ae388fe2-fe68-ee11-94f7-000d3ad6abf9,Senior Software Engineer - Qt,PR/005184,Oberbrunner LLC,Demarcus Stiedemann,Permanent,London,NG31 8OQ,United Kingdom,75000
-6,29388fe2-fe68-ee11-94f7-000d3ad6abf9,Founding Back End Engineer,PR/005051,Rath-Ullrich,Sherwood Leffler,Permanent,Nottingham,YM11 0SA,United Kingdom,100000
+6,29388fe2-fe68-ee11-94f7-000d3ad6abf9,Head of Development,PR/005051,Rath-Ullrich,Sherwood Leffler,Permanent,Nottingham,YM11 0SA,United Kingdom,100000
 7,0f398fe2-fe68-ee11-94f7-000d3ad6abf9,Linux Engineering Manager,PR/005281,"McCullough, Beahan and Abshire",Emmalee O'Connell,Permanent,Birmingham,KY27 5VQ,United Kingdom,55000
-8,27398fe2-fe68-ee11-94f7-000d3ad6abf9,Quant Data Engineer,PR/005305,Lesch-Hirthe,Nash Durgan,Permanent,Londonderry,UW26 3AF,United Kingdom,60000
-9,87e08858-b37c-ee11-94fa-000d3ad6abf9,Quant Developer,PR/005385,Lesch-Hirthe,Golda Pouros,Permanent,Londonderry,UW26 3AF,United Kingdom,70000
-10,2f398fe2-fe68-ee11-94f7-000d3ad6abf9,Desk Quant Researcher,PR/005313,"Ondricka, Littel and Emmerich",Gloria Wolf,Permanent,Londonderry,WR01 1IH,United Kingdom,40000
+8,27398fe2-fe68-ee11-94f7-000d3ad6abf9,Development Manager,PR/005305,Lesch-Hirthe,Nash Durgan,Permanent,Londonderry,UW26 3AF,United Kingdom,60000
+9,87e08858-b37c-ee11-94fa-000d3ad6abf9,Development Manager,PR/005385,Lesch-Hirthe,Golda Pouros,Permanent,Londonderry,UW26 3AF,United Kingdom,70000
+10,2f398fe2-fe68-ee11-94f7-000d3ad6abf9,Head of Department,PR/005313,"Ondricka, Littel and Emmerich",Gloria Wolf,Permanent,Londonderry,WR01 1IH,United Kingdom,40000
 11,8ce08858-b37c-ee11-94fa-000d3ad6abf9,Streaming Engineer,PR/005390,Koepp-Gislason,Lucinda Hudson,Permanent,Lisburn,HK88 5XN,United Kingdom, 42000
 12,0f388fe2-fe68-ee11-94f7-000d3ad6abf9,Linux Engineer,PR/005025,"McCullough, Beahan and Abshire",Emmalee O'Connell,Permanent,Birmingham,KY27 5VQ,United Kingdom,32000
 13,296a3af4-2a8d-ee11-be36-6045bd0c1d6a,sql developer,CR/006053,Lesch-Langworth,Zula Kuhic,Contract,Aberdeen,PE68 3TT,United Kingdom,48000
 14,712d8fe2-fe68-ee11-94f7-000d3ad6abf9,Data Engineer,PR/002307,"Beatty, Durgan and Marquardt",Blake Effertz,Permanent,Londonderry,WV41 5IY,United Kingdom,38000
 15,4f2c8fe2-fe68-ee11-94f7-000d3ad6abf9,Database Administrator,PR/002017,"Kulas, Wilkinson and Gorczany",Jo Zemlak,Permanent,Nottingham,SP50 5SC,United Kingdom,55000
 16,61bb8a5e-f898-ee11-be37-002248c6f667,Testing,,Abbott Group,Libby Dickens,Permanent,Londonderry County Borough,QL26 1IB,United Kingdom,10000
-17,15388fe2-fe68-ee11-94f7-000d3ad6abf9,SRE EQR,PR/005031,"Emard, Reynolds and Cummerata",Margaret Kris,Permanent,Dundee,VR02 0JG,United Kingdom,46000
+17,15388fe2-fe68-ee11-94f7-000d3ad6abf9,Head of Development,PR/005031,"Emard, Reynolds and Cummerata",Margaret Kris,Permanent,Dundee,VR02 0JG,United Kingdom,86000
 18,70fa3f53-c399-ee11-be37-002248c6f97c,C# Developer,,Barclays,Aaliyah Berge,Contract,,,,88000
 19,aae08858-b37c-ee11-94fa-000d3ad6abf9,Cloud Migration Strategist,CR/005420,"O'Conner, Bailey and Effertz",Spencer Lebsack,Contract,Birmingham,NZ64 4JG,United Kingdom,98000
 20,ec388fe2-fe68-ee11-94f7-000d3ad6abf9,Senior Systems Admin,PR/005246,"Lesch, Cole and Moore",Wilber Smith,Permanent,Newtownabbey,CT80 7AF,United Kingdom,82000
@@ -24,7 +24,7 @@ vacancy_id,VacancyId,Name,Reference,Client,HiringManager,PositionType,AddressCit
 23,a6e08858-b37c-ee11-94fa-000d3ad6abf9,Equity Derivatives Trader,PR/005416,"Ortiz, Howell and Purdy",Cedrick Cummerata,Permanent,Paisley,UG68 8OG,United Kingdom,58500
 24,a8e08858-b37c-ee11-94fa-000d3ad6abf9,Machine Learning Engineer,PR/005418,Funk-Upton,Royce Rutherford,Permanent,Nottingham,ZT15 8PM,United Kingdom,68500
 25,93e08858-b37c-ee11-94fa-000d3ad6abf9,MWAM Desktop Support Engineer,PR/005397,Lesch-Hirthe,Golda Pouros,Permanent,Londonderry,UW26 3AF,United Kingdom,38500
-26,84388fe2-fe68-ee11-94f7-000d3ad6abf9,Network Automation Engineer,PR/005142,Orn Inc and Sons,Carlos Langworth,Permanent,Dundee,OR56 1LQ,United Kingdom,68500
+26,84388fe2-fe68-ee11-94f7-000d3ad6abf9,Head of Development,PR/005142,Orn Inc and Sons,Carlos Langworth,Permanent,Dundee,OR56 1LQ,United Kingdom,68500
 27,af2335d7-1f82-ee11-8179-6045bd0c1c1b,Desktop Support Engineer,PR/006007,Larkin-Jones,Kamille Jakubowski,Permanent,Newport,ZB21 8OL,United Kingdom,80000
 28,9a18c380-3482-ee11-8179-002248c7244c,Business Analyst,PR/006009,"Green, O'Kon and Schiller",Weldon Schowalter,Permanent,Swansea,PL17 3QB,United Kingdom,90000
 29,84e08858-b37c-ee11-94fa-000d3ad6abf9,Software Engineer,PR/005382,"Emard, Reynolds and Cummerata",Zander Schaefer,Permanent,Dundee,VR02 0JG,United Kingdom,78500
@@ -46,6 +46,6 @@ vacancy_id,VacancyId,Name,Reference,Client,HiringManager,PositionType,AddressCit
 45,a0e08858-b37c-ee11-94fa-000d3ad6abf9,Production Engineer (London),PR/005410,"McCullough, Beahan and Abshire",Domenica Emard,Permanent,Birmingham,KY27 5VQ,United Kingdom,36250
 46,7ce08858-b37c-ee11-94fa-000d3ad6abf9,Sales & Business Development Executive,PR/005374,Sauer Group,Casimir Bradtke,Permanent,Newport,MB11 1IT,United Kingdom,66250
 47,84eba454-a583-ee11-8179-002248c7244c,Automation Lead for Bristol Office,PR/006018,Kunde LLC,Joana Crist,Permanent,Liverpool,DE40 4DK,United Kingdom,65000
-48,50398fe2-fe68-ee11-94f7-000d3ad6abf9,Snowflake Data Engineer,CR/005346,"Reichert, Schaefer and Volkman",Sonia Strosin,Contract,Lisburn,EO67 1GF,United Kingdom,44250
+48,50398fe2-fe68-ee11-94f7-000d3ad6abf9,Head of Development,CR/005346,"Reichert, Schaefer and Volkman",Sonia Strosin,Contract,Lisburn,EO67 1GF,United Kingdom,99999
 49,d2303611-348d-ee11-be36-6045bd0c1c1b,HIG IT Support Analyst,PR/006054,Ortiz-Jaskolski,Jermaine Zulauf,Permanent,Buckley,SR20 4GH,United Kingdom,100000
 50,b2378fe2-fe68-ee11-94f7-000d3ad6abf9,Facilities Manager,TR/004932,Schmeler LLC,Lula Grimes,Contract,London,WN28 0TX,United Kingdom,34250
